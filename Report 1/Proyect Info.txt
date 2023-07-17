@@ -1,5 +1,0 @@
-Dear Recruiter,
-This Power BI Report has been created by me from scratch as part of a job interview.
-The data comes from the two csv, and the one Excel files.
-Along with the data the Company sent me a PDF with the description of the visual requirements, 
-but it's a corporate PDF and I want to keep the privacy of the Company.
