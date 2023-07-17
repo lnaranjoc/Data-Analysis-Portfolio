@@ -1,0 +1,4 @@
+Dear Recruiter,
+This is a data exploration exercise based on Zomato, a popular indian food delivery app.
+The dataset is small but sufficient to obtain some interesting business insights.
+All of the code has been written by me from scratch following an on-line lesson about SQL.
