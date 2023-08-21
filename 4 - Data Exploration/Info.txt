@@ -1,0 +1,4 @@
+This is a SQL data exploration exercise based on Zomato, a popular indian food delivery app.
+The app offers a Gold membership, whose members are rewarded with discounts on their orders. 
+I have created the dataset and then queried the data to obtain interesting information about 
+the company's sales, products and members.
