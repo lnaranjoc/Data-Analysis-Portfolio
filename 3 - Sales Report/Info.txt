@@ -1,0 +1,2 @@
+The data used to create this report comes from a CSV file which cannot be attached, as it's too big 
+for GitHub requirements.
